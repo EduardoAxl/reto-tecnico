@@ -1,0 +1,6 @@
+#Generar Jar
+.\mvnw.cmd package
+#Generar imagen
+docker build -t prueba-tecnica:1.0.0 .
+#Arrancar contenedor
+docker run -p 8085:8085 prueba-tecnica:1.0.0

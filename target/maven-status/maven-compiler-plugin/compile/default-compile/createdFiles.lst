@@ -1,0 +1,9 @@
+com\tata\prueba\dto\TipoCambioDTO.class
+com\tata\prueba\request\ObtenerMontoTipoCambioRequest.class
+com\tata\prueba\repository\TipoCambioRepository.class
+com\tata\prueba\service\impl\TipoCambioServiceImpl.class
+com\tata\prueba\PruebaTecnicaApplication.class
+com\tata\prueba\request\ActualizarTipoCambioRequest.class
+com\tata\prueba\controller\TipoCambioController.class
+com\tata\prueba\model\TipoCambio.class
+com\tata\prueba\service\TipoCambioService.class
